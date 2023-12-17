@@ -10,6 +10,7 @@
 #include "Util.h"
 #include "Descida.h"
 #include "Arquivos.h"
+#include <climits>
 
 float GRASP(int n, std::vector<int> &s, float **d, float alpha, int GRASP_max /*, int tipo_construcao*/)
 {
