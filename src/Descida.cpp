@@ -3,6 +3,7 @@
 #include <ctime>
 #include <algorithm>
 #include <random>
+#include <chrono>
 #include <utility> //funcao swap (para versao anterior a C11 usar <algorithm>)
 #include "Arquivos.h"
 #include "Construcao.h"
